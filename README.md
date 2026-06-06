@@ -93,5 +93,5 @@ Passwords are handled entirely by Supabase Auth. Every API request needs a JWT t
 
 ---
 
-Built by **Govind Gupta** — Data Science Trainer at GLA University, Mathura  
+Built by ** Mr. Govind Gupta and Dr. Narendra Mohan** — Data Science Trainer at GLA University, Mathura  
 *FDP on Agentic AI — June 2026*
